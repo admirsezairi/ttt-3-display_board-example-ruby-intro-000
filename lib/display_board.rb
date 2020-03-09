@@ -4,3 +4,4 @@ def define_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
+end
